@@ -1,4 +1,4 @@
-# achivements
+# Achivements_Tracker
 
 
 DBMS Project
