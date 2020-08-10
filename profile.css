@@ -1,0 +1,15 @@
+.jumbotron{
+  background-image: linear-gradient(to right, #097979, #00d4ff );
+}
+
+body{
+  background-color: lightblue;
+}
+
+.container {
+
+
+  padding-top: 30px;
+  padding-bottom: 50px;
+  margin: 30px;
+}

@@ -1,0 +1,22 @@
+body{
+  background-color: blue;
+}
+
+.main {
+
+  background-color: lightgray;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  margin: 20px;
+}
+
+.jumbotron {
+  background-image: linear-gradient(to right, #097979, #00d4ff );
+  padding-bottom: 50px;
+}
+
+.rounded-circle {
+  position: relative;
+   left: 1400px;
+  top: -140px;
+}
